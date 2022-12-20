@@ -1,0 +1,32 @@
+[
+  {
+    "index": 1,
+    "name": "Arta Chan",
+    "dateOfBirthday": "12-22-1998",
+    "municipality": "Prishtine"
+  },
+  {
+    "index": 2,
+    "name": "Egzon Hoxha",
+    "dateOfBirthday": "09-22-2000",
+    "municipality": "Prishtine"
+  },
+  {
+    "index": 3,
+    "name": "Agron Chan",
+    "dateOfBirthday": "10-22-2001",
+    "municipality": "Prishtine"
+  },
+  {
+    "index": 4,
+    "name": "Erblin Bajrami",
+    "dateOfBirthday": "05-15-2002",
+    "municipality": "Vushtrri"
+  },
+  {
+    "index": 5,
+    "name": "Xoni Bajrami",
+    "dateOfBirthday": "02-24-2000",
+    "municipality": "Vushtrri"
+  }
+]
